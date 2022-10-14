@@ -1,4 +1,4 @@
 {
    "software_versao":"v0.9",
-   "software_update_link":"https://raw.githubusercontent.com/wlucasgc/hidro-monitor-update/main/HidroMonitor-MQTT.ino.bin",
+   "software_update_link":"https://raw.githubusercontent.com/wlucasgc/hidro-monitor-update/main/HidroMonitor-MQTT.ino.bin"
 }
