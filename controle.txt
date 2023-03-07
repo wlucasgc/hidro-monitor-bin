@@ -1,5 +1,5 @@
 {
-   "software_versao":"v0.1.0",
+   "software_versao":"v0.2.2",
    "software_update_link":"https://raw.githubusercontent.com/wlucasgc/smart-water-update/main/SmartWater.ino.bin",                       
    "force_update":"false"
 }
